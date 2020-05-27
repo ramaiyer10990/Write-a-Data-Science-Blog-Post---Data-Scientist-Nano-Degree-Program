@@ -16,7 +16,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I w Stack Overflow data from 2017 to better understand:
+For this project, I made use of the Stack Overflow data from 2017 to better understand:
 
 1. As a programmer, would I relocate to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
 2. What is the salary difference in the western world and in the eastern world?
